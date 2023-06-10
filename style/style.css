@@ -28,7 +28,7 @@ h1{
     font-weight: 200;
 }
 
-#secao{
+section{
     display: flex;
     flex-direction: row;
     margin-top: 50px;
@@ -94,6 +94,3 @@ hr{
     text-align: center;
 }
 
-#bio{
-    text-align: center;
-}
