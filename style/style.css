@@ -49,6 +49,10 @@ p{
      width: 580px;
 }
 
+.imgServicos{
+    width: 600px;
+}
+
 a{
     color: white;
 }
@@ -86,7 +90,10 @@ input{
 
 hr{
     margin: 50px;
+    color: #EA0606;
 }
+
+
 
 #equipe{
     display: flex;
@@ -94,3 +101,6 @@ hr{
     text-align: center;
 }
 
+img{
+    border-radius: 20px;
+}
